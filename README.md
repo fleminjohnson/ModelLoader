@@ -1,5 +1,3 @@
-This a fork by Ankitha Girish to work with Premake5
-
 ==================================
 Open Asset Import Library (assimp)
 ==================================
